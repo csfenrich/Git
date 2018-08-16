@@ -10,7 +10,9 @@ name = "superstar"
 # In[2]:
 
 
-age = 101
+age = 1000000
+age_modify=2*age
+print("My age is",age_modify)
 
 
 # In[3]:
