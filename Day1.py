@@ -4,15 +4,13 @@
 # In[1]:
 
 
-name = "superstar"
+name = "colleen"
 
 
 # In[2]:
 
 
-age = 1000000
-age_modify=2*age
-print("My age is",age_modify)
+age = 101
 
 
 # In[3]:
